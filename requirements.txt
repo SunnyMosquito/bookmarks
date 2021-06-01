@@ -11,4 +11,4 @@ redis==2.10.6
 requests==2.18.4
 six==1.11.0
 -e git+https://github.com/mariocesar/sorl-thumbnail.git@b6358d234d7de3927a2666a2a5ab3d7870c0e1d3#egg=sorl_thumbnail
-urllib3==1.22
+urllib3==1.26.5
